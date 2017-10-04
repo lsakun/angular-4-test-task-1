@@ -1,2 +1,5 @@
-# angular-4-test-task-1
-Base files of Angular 4 test task
+# Base files of Angular 4 test task
+
+1. /assets/data/ - JSON files for emulation server requests
+2. /assets/images/
+3. /assets/fonts/
