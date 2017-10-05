@@ -2,6 +2,7 @@
   "id": 31,
   "name": "Svantepolk Brijesh",
   "photo": "/assets/images/photographer-102.jpg",
+  "weight": 0,
   "about": "<p> Cras massa odio, ultrices non turpis ut, laoreet laoreet ligula. Vestibulum sem felis, bibendum a lobortis et, eleifend eget velit. Vivamus diam turpis, lacinia sed nibh fringilla, dictum varius elit. Quisque suscipit convallis maximus. Cras sed enim commodo, porttitor ante quis, consequat ante. Etiam at dui mauris. Suspendisse ut laoreet eros, vel aliquam magna. Fusce non vehicula est.</p><p>Phasellus eu quam vulputate, interdum nisi eget, aliquam nunc. Morbi malesuada est sit amet ullamcorper lobortis. Aenean in purus ac sapien gravida venenatis ut a ex. In fermentum risus eget varius eleifend. Vivamus tincidunt tincidunt lacus. Sed quis massa maximus, hendrerit erat sed, aliquet nunc. </p>",
   "gallery": {
     "1": {

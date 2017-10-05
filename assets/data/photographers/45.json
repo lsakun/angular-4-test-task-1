@@ -2,6 +2,7 @@
   "id": 45,
   "name": "Lester Gotama",
   "photo": "/assets/images/photographer-105.jpg",
+  "weight": 0,
   "about": "<p>Vivamus erat metus, interdum eu augue a, sagittis commodo sapien. Sed eget imperdiet augue. Curabitur turpis orci, tempor vitae eros vitae, lacinia iaculis lacus. Nulla eros justo, egestas at porta non, ultricies ut massa. Vivamus tincidunt nec enim id tempus. Mauris nec eleifend velit.</p><p>Phasellus molestie arcu turpis, vel vehicula eros feugiat in. Nulla venenatis, sapien et gravida finibus, tellus tortor interdum turpis, vitae feugiat nibh lacus in nibh. Cras ac elementum mi. Cras nulla mauris, viverra a lorem sed, sollicitudin rhoncus tellus. Nullam at faucibus ex, id pellentesque metus. Pellentesque consequat sodales urna, sit amet malesuada ante dapibus sit amet. Cras pretium fringilla volutpat. In id imperdiet sem.</p>",
   "gallery": {
     "1": {

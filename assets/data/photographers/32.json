@@ -2,6 +2,7 @@
   "id": 32,
   "name": "Sofronio Orville",
   "photo": "/assets/images/photographer-103.jpg",
+  "weight": 0,
   "about": "<p>Quisque interdum euismod ipsum, ut congue lacus ultricies ac. Sed iaculis massa non orci efficitur, in viverra lectus vehicula. Ut pharetra lacus at blandit elementum. Nunc volutpat lectus tellus, tempus venenatis nibh rhoncus et. Donec dictum ac quam eu porta. Proin iaculis diam sit amet tempus ullamcorper. Nulla non vehicula augue.</p><p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sed nibh in enim aliquam mattis sit amet vitae turpis. Pellentesque sapien lorem, dictum non est ac, finibus ultrices dui. Cras id lacus eros. Nullam luctus turpis vitae odio luctus, a tincidunt augue lacinia.</p>",
   "gallery": {
     "1": {

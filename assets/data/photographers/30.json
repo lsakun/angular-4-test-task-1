@@ -2,6 +2,7 @@
   "id": 30,
   "name": "Manuel Venkat",
   "photo": "/assets/images/photographer-101.jpg",
+  "weight": 0,
   "about": "<p>Phasellus eu quam vulputate, interdum nisi eget, aliquam nunc. Morbi malesuada est sit amet ullamcorper lobortis. Aenean in purus ac sapien gravida venenatis ut a ex. In fermentum risus eget varius eleifend. Vivamus tincidunt tincidunt lacus. Sed quis massa maximus, hendrerit erat sed, aliquet nunc. </p><p>In iaculis sem risus, sit amet vehicula orci facilisis a. In venenatis eleifend magna elementum ultricies. Suspendisse tortor neque, laoreet eu sodales non, vehicula eget nibh. In eget tempor orci. Suspendisse consectetur eget urna in pulvinar. Pellentesque a lectus quis lorem tempus aliquet sit amet sit amet justo.</p><p>Etiam tincidunt feugiat ligula sed pharetra. In in tempor ligula, a suscipit purus. Cras vestibulum suscipit nibh, ut rutrum tortor ullamcorper aliquam.</p>",
   "gallery": {
     "1": {

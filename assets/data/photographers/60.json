@@ -2,6 +2,7 @@
   "id": 60,
   "name": "Philokrates Tychon",
   "photo": "/assets/images/photographer-107.jpg",
+  "weight": 1,
   "about": "<p>Curabitur turpis orci, tempor vitae eros vitae, lacinia iaculis lacus. Nulla eros justo, egestas at porta non, ultricies ut massa.</p><p>Mauris iaculis erat et ex cursus pretium. Cras vitae risus eget magna imperdiet viverra a ut nibh. Morbi vitae risus sodales, rutrum enim eu, mattis nisl. Maecenas sit amet pharetra neque.</p>",
   "gallery": {
     "1": {

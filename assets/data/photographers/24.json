@@ -2,6 +2,7 @@
   "id": 24,
   "name": "John Doe",
   "photo": "/assets/images/photographer-100.jpg",
+  "weight": 100,
   "about": "<p>Nunc a tortor ac leo dictum mollis ut id sapien. Suspendisse rhoncus diam ut enim ullamcorper, vitae molestie odio lacinia.</p><p>Nam tempus elementum ante nec porta. Suspendisse in justo auctor, lobortis nunc tempor, finibus mauris. Proin interdum, nisi id eleifend facilisis, nunc diam pretium risus, sed tincidunt erat nisl sit amet lorem. Donec in egestas urna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras vulputate sodales libero non pretium. Quisque vel auctor libero. Fusce tincidunt sollicitudin massa. Integer metus nisl, feugiat ut tempor a, cursus sit amet magna. Cras commodo scelerisque massa, eget venenatis libero tincidunt ornare.</p>",
   "gallery": {
     "1": {

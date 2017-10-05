@@ -2,6 +2,7 @@
   "id": 65,
   "name": "Sandip Ravindra",
   "photo": "/assets/images/photographer-109.jpg",
+  "weight": 0,
   "about": "<p>In hac habitasse platea dictumst. Pellentesque viverra facilisis massa, eu vulputate enim porttitor in. Nunc sit amet odio vitae tortor ullamcorper pharetra. Nulla ullamcorper ullamcorper purus, quis commodo ex varius at. Quisque pretium vehicula porttitor. Donec at scelerisque sapien. Donec sit amet nulla bibendum, gravida nibh at, sagittis tortor.</p><p>Vestibulum congue justo id sollicitudin viverra. Ut ac turpis ac magna luctus porttitor eu sed diam. Sed in lorem ac metus dapibus sollicitudin. Phasellus vel urna quis purus feugiat imperdiet eu sit amet lectus. Praesent vulputate auctor ligula ut cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>",
   "gallery": {
     "1": {

@@ -2,6 +2,7 @@
   "id": 50,
   "name": "Pancras Zarathushtra",
   "photo": "/assets/images/photographer-106.jpg",
+  "weight": 10,
   "about": "<p>Vestibulum hendrerit nunc eget mauris gravida ornare. Duis mattis fermentum felis, et posuere sapien hendrerit quis. Nullam hendrerit, leo quis vehicula sodales, purus sem egestas nisi, eu ullamcorper dolor metus id enim. Integer non nisi non purus aliquam ultricies vitae quis dolor. Suspendisse et augue nisi. Mauris sodales, nulla ut blandit malesuada, nunc neque lacinia diam, in aliquam metus est vitae urna.</p><p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam massa tortor, ultrices id urna nec, dapibus dictum ante. Aenean ante odio, mollis at ultricies id, posuere in turpis. Sed in metus eget lorem tristique volutpat quis sit amet elit. Aliquam imperdiet neque sed mi semper, id vulputate arcu facilisis. Donec urna augue, maximus eu rutrum non, ultrices a velit. Nullam est nisl, luctus mattis lorem vel, mattis consequat dui.</p>",
   "gallery": {
     "1": {
